@@ -1,0 +1,2 @@
+# Series-de-Taylor---Julian-Penuela-ID-607452--NRC-3113.
+Este repositorio contiene en carpetas debidamente separadas las series de Taylor , específicamente seno , coseno , exponente y adicional a el  se encuentra la serie de Gregory-Leibnyz para calcular pi por medio de una serie casi infinita, todo esto esta programado en java y debidamente documentado.                                                                           DENTRO DE CADA CARPETA PODEMOS ENCONTRAR LA DOCUMENTACIÓN DE CADA UNO.
