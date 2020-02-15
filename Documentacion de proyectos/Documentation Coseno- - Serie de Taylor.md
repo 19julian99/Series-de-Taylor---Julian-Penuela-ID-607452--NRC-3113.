@@ -3,7 +3,7 @@
 
 ![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/7ec2c0e73f1b75c7b2f4d32fc37cf99f8a52e444)
 _____________________________________________________________________________________________________________________________
-![alt text](http://recursostic.educacion.es/descartes/web/materiales_didacticos/Desarrollo_serie_taylor/expo.gif)
+
  
  
  
